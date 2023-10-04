@@ -1,0 +1,428 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.ert {
+  display: inline-flex;
+}
+
+.ugrul {
+  margin-top: 60px;
+  margin-left: 100px;
+  width: 400px;
+}
+
+.qq {
+  width: 1100px;
+  height: 40px;
+  border: 1px solid white;
+  display: inline-flex;
+  margin-left: 110px;
+  margin-top: 15px;
+  border-radius: 10px;
+  background-color: white;
+}
+.qq .ee {
+  margin-left: 90px;
+  margin-top: 10px;
+}
+.qq .rr, .qq .tt, .qq .yy {
+  margin-left: 55px;
+  margin-top: 10px;
+}
+.qq .uu {
+  margin-left: 250px;
+  margin-top: 10px;
+}
+.qq .ii {
+  margin-left: 35px;
+  height: 35px;
+  margin-top: 2px;
+  border: none;
+  width: 60px;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(77, 77, 243);
+}
+
+.oo {
+  margin: 100px;
+}
+.oo .aa, .oo .ss, .oo .dd, .oo .ff {
+  font-size: 35px;
+  font-family: sans-serif;
+}
+.oo .pp {
+  border-bottom: 1px solid grey;
+  width: 350px;
+  margin-top: 15px;
+}
+.oo .gg {
+  margin-left: 35px;
+  height: 45px;
+  margin-top: 10px;
+  border: none;
+  width: 220px;
+  border-radius: 20px;
+  color: white;
+  background-color: orangered;
+}
+.oo .hh {
+  margin-top: 20px;
+}
+
+.all {
+  width: 99.8%;
+  height: 550px;
+  border: 1px solid white;
+  background-color: rgb(222, 247, 247);
+}
+
+.kk {
+  width: 80%;
+  height: 350px;
+  border: 1px solid white;
+  margin-left: 140px;
+  border-radius: 25px;
+  margin-top: 20px;
+  display: inline-flex;
+  background-color: rgb(222, 247, 247);
+}
+
+.jj {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.zz {
+  margin-top: 80px;
+}
+.zz .ll {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.osm {
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 400px;
+  height: 300px;
+}
+
+.an {
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+.par {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  margin-left: 80px;
+}
+
+.xx {
+  width: 250px;
+  height: 250px;
+  border: 1px solid rgb(222, 247, 247);
+  border-radius: 10px;
+  background-color: rgb(222, 247, 247);
+}
+
+.photo {
+  margin-left: 90px;
+  margin-top: 40px;
+  width: 70px;
+}
+
+.tex {
+  text-align: center;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.text2 {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.all3 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.photo2 {
+  margin-left: 90px;
+  margin-top: 40px;
+  width: 70px;
+}
+
+.tex3 {
+  text-align: center;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.photo3 {
+  margin-left: 90px;
+  margin-top: 40px;
+  width: 70px;
+}
+
+.tex4 {
+  text-align: center;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.photo4 {
+  margin-left: 90px;
+  margin-top: 40px;
+  width: 70px;
+}
+
+.tex6 {
+  text-align: center;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.all4 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.next {
+  width: 99.8%;
+  height: 1100px;
+  border: 1px solid rgb(222, 247, 247);
+  margin-top: 100px;
+  background-color: rgb(222, 247, 247);
+}
+
+.text5 {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.text6 {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.fach {
+  margin-left: 300px;
+  margin-top: 30px;
+  position: absolute;
+  z-index: 1;
+}
+
+.bam {
+  position: relative;
+  z-index: 2;
+  left: 620px;
+  top: 150px;
+}
+
+.save {
+  position: relative;
+  z-index: 2;
+  left: 620px;
+  color: white;
+  top: 160px;
+  font-family: sans-serif;
+}
+
+.nu {
+  width: 350px;
+  height: 300px;
+  border: 1px solid white;
+  margin-top: 400px;
+  background-color: white;
+}
+
+.num {
+  font-size: 70px;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: rgb(87, 87, 255);
+}
+
+.xy {
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.az {
+  padding-top: 10px;
+  line-height: 30px;
+}
+
+.forget {
+  display: flex;
+  margin-left: 150px;
+}
+
+.abs {
+  width: 350px;
+  height: 300px;
+  border: 1px solid white;
+  margin-top: 400px;
+  background-color: white;
+}
+
+.num2 {
+  font-size: 70px;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: rgb(87, 87, 255);
+}
+
+.xy1 {
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.abso {
+  width: 350px;
+  height: 300px;
+  border: 1px solid white;
+  margin-top: 400px;
+  background-color: white;
+}
+
+.but {
+  width: 200px;
+  height: 50px;
+  color: white;
+  background-color: orangered;
+  border: none;
+  border-radius: 25px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.hello {
+  width: 500px;
+  height: 60px;
+  border: 1px solid white;
+  border-radius: 25px;
+  display: flex;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 450px;
+}
+
+.pok {
+  padding-left: 20px;
+}
+
+.ok {
+  width: 400px;
+  height: 300px;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-left: 100px;
+  background-image: url(/z14.png);
+}
+
+.eco {
+  width: 700px;
+  height: 300px;
+  border: 1px solid rgb(222, 247, 247);
+  border-radius: 20px;
+  margin-left: 50px;
+  background-color: rgb(222, 247, 247);
+}
+
+.lyc {
+  display: inline-flex;
+  margin-top: 100px;
+}
+
+.world {
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 700;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.project {
+  padding-left: 50px;
+  padding-top: 15px;
+}
+
+.pop {
+  width: 700px;
+  height: 300px;
+  border: 1px solid rgb(222, 247, 247);
+  border-radius: 20px;
+  margin-left: 50px;
+  background-color: rgb(222, 247, 247);
+}
+
+.mma {
+  width: 400px;
+  height: 300px;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-left: 50px;
+  background-image: url(/z15.png);
+}
+
+.ufc {
+  display: inline-flex;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.chemp {
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 700;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.loser {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.life {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.nad {
+  width: 300px;
+}
+
+.pod {
+  padding-top: 50px;
+}
+
+.khab {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+}
+
+.ku {
+  height: 40px;
+}/*# sourceMappingURL=main.css.map */
